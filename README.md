@@ -1,6 +1,12 @@
-# KoniStory
+# Build Assister
 
-Register : https://build.assisterr.ai/?ref=6664a1a4b7cbb265d7f66b4a
+Register :
+
+- https://build.assisterr.ai/?ref=6664a1a4b7cbb265d7f66b4a
+- connect discord
+- connect twitter
+- clear task 
+- done
 
 ## Features
 
